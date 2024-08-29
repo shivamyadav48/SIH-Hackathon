@@ -5,7 +5,7 @@
 
 The Crop Recommendation System is designed to help farmers choose the most suitable crop based on various environmental and soil conditions. The system uses machine learning algorithms to predict the best crop to grow in a specific location.
 
-###Model Overview
+### Model Overview:
 
 ![Crop Model](https://github.com/user-attachments/assets/970c82d7-f0e1-4a6e-ab85-21f5a08c3faa)
 
